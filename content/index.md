@@ -12,7 +12,7 @@ title: "My basic foundations knowledge base work on Machine Learning Neural Netw
 
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This is the index page (`content/index.md`) of your knowledge base docs. It  serves as the home page for your website.
 
 ## Editing pages
 
