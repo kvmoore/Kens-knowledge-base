@@ -4,11 +4,11 @@ title: "My basic foundations knowledge base work on Machine Learning Neural Netw
 
 ## Main Categories
 
-- [[content/1 introduction/index|1 Introduction]]
-- [[content/types-02/index|2 Types]]
-- [[content/architecture-03/index|3 Architecture]]
-- [[content/optimization and infrastructure-04/index|4 Optimization and Infrastructure]]
-- [[content/deploying and monitoring-05/index|5 Deploying and monitoring]]
+- [[1 introduction/index|1 Introduction]]
+- [[content/2 types/index|2 Types]]
+- [[content/3 architecture/index|3 Architecture]]
+- [[content/4 optimization and infrastructure/index|4 Optimization and Infrastructure]]
+- [[content/5 deploying and monitoring/index|5 Deploying and monitoring]]
 
 ## The index page
 
