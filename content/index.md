@@ -4,7 +4,7 @@ title: "My basic foundations knowledge base work on Machine Learning Neural Netw
 
 ## Main Categories
 
-- [[content/introduction-01/index|1 Introduction]]
+- [[content/1 introduction/index|1 Introduction]]
 - [[content/types-02/index|2 Types]]
 - [[content/architecture-03/index|3 Architecture]]
 - [[content/optimization and infrastructure-04/index|4 Optimization and Infrastructure]]
