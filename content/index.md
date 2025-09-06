@@ -7,8 +7,8 @@ title: "My basic foundations knowledge base work on Machine Learning Neural Netw
 - [[1 introduction/index|1 Introduction]]
 - [[2 types/index|2 Types]]
 - [[3 architecture/index|3 Architecture]]
-- [[content/4 optimization and infrastructure/index|4 Optimization and Infrastructure]]
-- [[content/5 deploying and monitoring/index|5 Deploying and monitoring]]
+- [[4 optimization and infrastructure/index|4 Optimization and Infrastructure]]
+- [[5 deploying and monitoring/index|5 Deploying and monitoring]]
 
 ## The index page
 
